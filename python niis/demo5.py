@@ -1,0 +1,5 @@
+print("enter three no")
+a=int(input())
+b=int(input())
+c=int(input())
+print("sub",a-b-c)
