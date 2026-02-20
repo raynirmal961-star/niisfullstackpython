@@ -1,0 +1,10 @@
+print("enter rectangle length")
+L=int(input())
+print("enter rectangle breath")
+B=int(input())
+ar=L*B
+pr=2*(L+B)
+print("length=",L)
+print("breath=",B)
+print("area=",ar)
+print("perimeter=",pr)
