@@ -1,0 +1,6 @@
+#copy file to anthor file
+f1=open("data.text","r")
+f2=open("data2.text","w")
+f2.write(f1.read())
+f1.close()
+f2.close()
